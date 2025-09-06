@@ -1,0 +1,60 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-main: "Inter", "Noto Sans Arabic", "Segoe UI", sans-serif;
+  --font-mono: "SFMono-Regular", Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  
+  --bg-main: #0d1117;
+  --bg-sidebar: #010409;
+  --bg-content: #0d1117;
+  --bg-card: #161b22;
+  --bg-input: #0d1117;
+  --bg-hover: #21262d;
+  --bg-selected: #1f6feb26;
+  --bg-code: #010409;
+  
+  --text-main: #e6edf3;
+  --text-muted: #7d8590;
+  --text-dark: #f0f6fc;
+  
+  --accent-primary: #2f81f7;
+  --accent-secondary: #a371f7;
+  --accent-tertiary: #ec4899;
+  --accent-success: #238636;
+  --accent-danger: #da3633;
+  
+  --border-color: #30363d;
+  --shadow-color: rgba(0, 0, 0, 0.5);
+}
+
+html.light {
+  --bg-main: #ffffff;
+  --bg-sidebar: #f8fafc;
+  --bg-content: #ffffff;
+  --bg-card: #f8fafc;
+  --bg-input: #f1f5f9;
+  --bg-hover: #e2e8f0;
+  --bg-selected: #e2e8f0;
+  --bg-code: #f1f5f9;
+  
+  --text-main: #1e293b;
+  --text-muted: #64748b;
+  --text-dark: #0f172a;
+  
+  --accent-primary: #2563eb;
+  --accent-secondary: #7c3aed;
+  --accent-tertiary: #db2777;
+  
+  --border-color: #e2e8f0;
+  --shadow-color: rgba(0, 0, 0, 0.1);
+}
+
+body {
+  font-family: var(--font-main);
+  background-color: var(--bg-main);
+  color: var(--text-main);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

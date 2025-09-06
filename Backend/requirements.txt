@@ -1,0 +1,41 @@
+# FastAPI and Server
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Core LangChain Libraries
+langchain
+langchain-core
+
+# LLM Provider Integrations
+langchain-ollama
+langchain-google-genai
+langchain-openai
+
+# LangChain Community & Integrations
+langchain-community
+langchain-huggingface
+langchain-text-splitters
+
+# Vector Database for Memory
+lancedb
+# Use faiss-cpu for broad compatibility. If you have a CUDA-enabled GPU,
+# you can install faiss-gpu instead for better performance.
+faiss-cpu
+
+# Web Interaction and Scraping
+playwright
+requests
+beautifulsoup4
+httpx
+trafilatura
+
+# Required by HuggingFaceEmbeddings for local text embeddings
+sentence-transformers
+
+# Pydantic for data validation (used across many files)
+pydantic
+
+# Note: After installing these packages, you must run the following
+# command to download the necessary browser binaries for Playwright:
+# playwright install

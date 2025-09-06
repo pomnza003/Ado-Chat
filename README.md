@@ -7,7 +7,7 @@ Ado Chat is a powerful, feature-rich chat interface for interacting with various
 ### ✨ Live Demo
 
 
-![Ado Chat Screenshot]([https://raw.githubusercontent.com/Abdulkadir98/ado-chat-pro/main/Image/1.png](https://github.com/avdo403/Ado-Chat/blob/main/Image/1.png))
+![Ado Chat Screenshot](https://github.com/avdo403/Ado-Chat/blob/main/Image/1.png)
 
 ![Ado Chat Screenshot](https://via.placeholder.com/800x500.png?text=Your+App+Screenshot+Here)
 

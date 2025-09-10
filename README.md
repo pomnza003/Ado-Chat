@@ -67,5 +67,5 @@ Follow these instructions to get the project up and running on your local machin
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ado-chat.git
+git clone https://github.com/avdo403/ado-chat.git
 cd ado-chat

